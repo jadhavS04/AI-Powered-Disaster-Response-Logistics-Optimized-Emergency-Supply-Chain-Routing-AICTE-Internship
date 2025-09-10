@@ -32,7 +32,7 @@ All datasets required are included in this repository:
 You can download all datasets directly from this repository by cloning:
 
 ```bash
-git clone https://github.com/<your-username>/AI-Powered-Disaster-Response-Logistics-Optimized-Emergency-Supply-Chain-Routing-AICTE-Internship.git
+git clone https://github.com/jadhavS04/AI-Powered-Disaster-Response-Logistics-Optimized-Emergency-Supply-Chain-Routing-AICTE-Internship.git
 cd AI-Powered-Disaster-Response-Logistics-Optimized-Emergency-Supply-Chain-Routing-AICTE-Internship
 
 Environment Setup
